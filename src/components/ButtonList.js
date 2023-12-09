@@ -13,10 +13,10 @@ const ButtonList = () => {
       <Button name="Cricket" />
       <Button name="News" />
       <Button name="Programming" />
-      <Button name="Podcasts" />
-      <Button name="Cricket" />
-      <Button name="News" />
-      <Button name="Programming" />
+      <Button name="AI" />
+      <Button name="Live" />
+      <Button name="Watched" />
+      <Button name="New to you" />
     </div>
   );
 };
